@@ -1,6 +1,6 @@
 # Athena AI
-Master repo for the rebuild of my personal home ai. It's kindof like Tony Stark's (Iron Man) Jarvis but this one is real :D   
-## I'm taking some time to remake my bot from the ground up to incorperate better use of flask's server capabilities and the ai to function across far more platforms like:   
+Master repo for the rebuild of my personal home ai. It's kindof like Tony Stark's (Iron Man) Jarvis but this one is real 
+I'm taking some time to remake my bot from the ground up to incorperate better use of flask's server capabilities and functionality across far more platforms like:   
 - Android Wear
 - Android OS
 - iOS (a bit of a stretch goal)
