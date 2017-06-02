@@ -1,0 +1,6 @@
+[submodule "AthenaSmartWatchFace"]
+	path = AthenaSmartWatchFace
+	url = https://github.com/Jspsun/AthenaSmartWatchFace
+[submodule "AthenaServer"]
+	path = AthenaServer
+	url = https://github.com/Jspsun/AthenaServer
